@@ -1,5 +1,5 @@
 # HEA
-Univeristy of Amsterdam High Enegy Astrophysics project
+Univeristy of Amsterdam High Energy Astrophysics project
 
 An attempt to simulate the spectra of Cygnus X-1
 
